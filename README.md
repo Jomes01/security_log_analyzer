@@ -57,5 +57,5 @@ Dept. of CSE (Cybersecurity), 2022-2026 batch,
 St. Joseph's College of Engineering and Technology, Palai (SJCET Palai)
 
 ## 📚 References
-Cybersecurity Essentials by Charles J. Brooks, et al.
+Cybersecurity Essentials by Charles J. Brooks, et al;
 Security Log Management by Jacob Babbin
