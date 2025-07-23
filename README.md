@@ -47,15 +47,15 @@ Would output a CSV like:
 ---
 
 
-📄 Project Status
+##📄 Project Status
 ✅ Completed as a 2nd-year mini/micro academic project
 🚀 Open for improvements: visualization, real-time monitoring, support for more log formats.
 
-👨‍💻 Author
+##👨‍💻 Author
 Jomin J Joseph
 Dept. of CSE (Cybersecurity), 2022-2026 batch,
 St. Joseph's College of Engineering and Technology, Palai (SJCET Palai)
 
-📚 References
+##📚 References
 Cybersecurity Essentials by Charles J. Brooks, et al.
 Security Log Management by Jacob Babbin
