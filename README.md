@@ -46,15 +46,27 @@ Would output a CSV like:
 
 ---
 
+## 📱 Screenshots
+
+<img width="2816" height="1215" alt="image" src="https://github.com/user-attachments/assets/8308e200-7135-4aa0-ba21-31b92e0d1424" />
+
+<img width="2812" height="1197" alt="image" src="https://github.com/user-attachments/assets/31875623-6416-42c6-a0ca-9fa6fc30a765" />
+
+
+---
 
 ## 📄 Project Status
 ✅ Completed as a 2nd-year mini/micro academic project
 🚀 Open for improvements: visualization, real-time monitoring, support for more log formats.
 
+---
+
 ## 👨‍💻 Author
 Jomin J Joseph
 Dept. of CSE (Cybersecurity), 2022-2026 batch,
 St. Joseph's College of Engineering and Technology, Palai (SJCET Palai)
+
+---
 
 ## 📚 References
 Cybersecurity Essentials by Charles J. Brooks, et al;
